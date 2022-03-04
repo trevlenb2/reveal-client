@@ -34,3 +34,4 @@ release/
 *google-services.json
 ~
 /github.properties
+gradle.properties
